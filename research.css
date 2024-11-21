@@ -1,0 +1,77 @@
+
+h1 {
+    color: #4caf50;
+    margin-bottom: 0.5em;
+    text-align: center;
+    background-color: bisque;
+}
+section {
+    padding: 2em;
+    max-width: 800px;
+    margin: 2em auto;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: #4caf50;
+    margin-bottom: 0.5em;
+}
+
+.raj, .raj1, .raj2 {
+    margin-top: 1em;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 1em;
+}
+
+.raj3 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+.card {
+    background: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1em;
+    flex: 1 1 250px;
+    text-align: center;
+}
+
+.card h3 {
+    color: #4caf50;
+    margin-bottom: 0.5em;
+}
+
+.card p {
+    font-size: 0.9em;
+}
+
+.raj1 ul li a {
+    color: #4caf50;
+    text-decoration: none;
+}
+
+.raj1 ul li {
+    text-decoration: underline;
+}
+
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+footer p {
+    font-size: 0.9em;
+}
